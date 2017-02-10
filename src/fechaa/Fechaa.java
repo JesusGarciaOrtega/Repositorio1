@@ -14,5 +14,12 @@ public class Fechaa {
     int dia;
     int mes;
     int ano;
-    
+
+    public Fechaa(int dia, int mes, int ano) {
+        this.dia = dia;
+        this.mes = mes;
+        this.ano = ano;
+    }
+
 }
+
